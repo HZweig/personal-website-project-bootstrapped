@@ -1,0 +1,16 @@
+
+
+/* div.background {
+    background: url(https://1sigfridsson.files.wordpress.com/2013/03/bild-002.jpg) no-repeat;
+    background-size: cover;
+}*/
+
+.blurb {
+	border: 2px solid black;
+	margin-bottom: 40px;
+}
+
+
+.row img {
+	width: 100%;
+}
