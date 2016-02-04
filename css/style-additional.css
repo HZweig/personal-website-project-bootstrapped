@@ -1,16 +1,41 @@
-
-
-/* div.background {
-    background: url(https://1sigfridsson.files.wordpress.com/2013/03/bild-002.jpg) no-repeat;
-    background-size: cover;
+/*body {
+	background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFwzztqvpBNPdeB3chQoDxFvEE6XsjoEUq-rE0tk-tbzo_xwQ7") repeat;
+	background-size: cover;
 }*/
+
+.page-header img {
+	width: 100%;
+	opacity: 0.5;
+	height: 395px;
+}
+
+.page-header {
+	position: fixed;
+	margin-top: 30px;
+}
 
 .blurb {
 	border: 2px solid black;
 	margin-bottom: 40px;
+	background-color: white;
 }
 
+.row {
+	background-color: white;
+}
 
 .row img {
 	width: 100%;
+}
+
+.col {
+	background-color: white;
+}
+
+#footer {
+	font-style: italic;
+	font-size: 12px;
+    position : fixed;
+    bottom : 0;
+    margin-top : 40px;
 }

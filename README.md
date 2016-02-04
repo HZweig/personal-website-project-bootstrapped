@@ -1,0 +1,1 @@
+This is the first website I'm doing entirely on my own. It's a resource guide for the Jewish holiday of Tu B'Shvat.
